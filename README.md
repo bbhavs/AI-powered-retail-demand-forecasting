@@ -212,6 +212,7 @@ Eight models trained with an 80/20 train-test split:
 ![Demand Heatmap](screenshots/04_dashboard_heatmap.png)
 
 ### 🔵 Consumer Clustering Insights
+![PCA 2D Scatter](screenshots/11_clustering_pca_scatter.png)
 ![Consumer Segments](screenshots/05_clustering_segments.png)
 ![Normalized Cluster Radar](screenshots/06_clustering_radar.png)
 ![Elbow Curve](screenshots/07_clustering_elbow.png)
@@ -221,6 +222,8 @@ Eight models trained with an 80/20 train-test split:
 ![Actual vs Predicted & Feature Importance](screenshots/09_forecasting_results.png)
 
 ### ⚡ Real-Time Prediction Engine
+![Prediction Input Form](screenshots/12_prediction_input_form.png)
+![Prediction Full View](screenshots/13_prediction_full_view.png)
 ![Sensitivity Analysis](screenshots/10_prediction_sensitivity.png)
 
 ---
