@@ -205,12 +205,23 @@ Eight models trained with an 80/20 train-test split:
 
 ## Screenshots
 
-| Module | Preview |
-|---|---|
-| Dashboard Overview | KPI cards + monthly sales trend |
-| Consumer Clustering | PCA scatter + segment summaries |
-| Real-Time Prediction | Input form + demand forecast result |
-| Sensitivity Analysis | Price & discount sensitivity charts |
+### 📊 Dashboard Overview
+![KPI Cards](screenshots/01_dashboard_kpi.png)
+![Monthly Sales Trend](screenshots/02_dashboard_trend.png)
+![Category & Regional Distribution](screenshots/03_dashboard_category_region.png)
+![Demand Heatmap](screenshots/04_dashboard_heatmap.png)
+
+### 🔵 Consumer Clustering Insights
+![Consumer Segments](screenshots/05_clustering_segments.png)
+![Normalized Cluster Radar](screenshots/06_clustering_radar.png)
+![Elbow Curve](screenshots/07_clustering_elbow.png)
+
+### 🤖 Demand Forecasting Models
+![Model R² Comparison](screenshots/08_forecasting_models.png)
+![Actual vs Predicted & Feature Importance](screenshots/09_forecasting_results.png)
+
+### ⚡ Real-Time Prediction Engine
+![Sensitivity Analysis](screenshots/10_prediction_sensitivity.png)
 
 ---
 
